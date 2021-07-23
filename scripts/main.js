@@ -69,10 +69,3 @@ gridBtn.addEventListener('click', function() {
     gridCreation(prompt('Enter The number of squares you want in each direction'));
     }
 );
-
-
-
-
-
-
-
